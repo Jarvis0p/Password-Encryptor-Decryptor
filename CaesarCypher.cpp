@@ -1,3 +1,5 @@
+// made no changes in code....only exploited
+
 #include<stdio.h>
 #include<strings.h>
 #include<stdlib.h>
